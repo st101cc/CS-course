@@ -1,0 +1,526 @@
+name,club,position,value
+Yaser Asprilla,Watford,Attacking Midfield,0.9
+Moisés Caicedo,Brighton & Hove Albion,Central Midfield,4.05
+Edo Kayembe,Watford,Defensive Midfield,1.17
+Luka Ilic,Manchester City,Attacking Midfield,0.72
+Hayao Kawabe,Wolverhampton Wanderers,Central Midfield,1.17
+Toti Gomes,Wolverhampton Wanderers,Centre-Back,0.9
+Nathan Patterson,Everton,Right-Back,2.7
+Matty Longstaff,Newcastle United,Central Midfield,2.25
+Kieran Trippier,Newcastle United,Right-Back,16.2
+Philippe Coutinho,Aston Villa,Left Winger,16.2
+Billy Arce,Brighton & Hove Albion,Left Winger,0.54
+Samir,Watford,Centre-Back,4.5
+Jonas Lössl,Brentford,Goalkeeper,0.9
+Chiquinho,Wolverhampton Wanderers,Left Winger,0.9
+Mohamed Salah,Liverpool,Right Winger,90.0
+Harry Kane,Tottenham Hotspur,Centre-Forward,90.0
+Romelu Lukaku,Chelsea,Centre-Forward,90.0
+Kevin De Bruyne,Manchester City,Attacking Midfield,81.0
+Bruno Fernandes,Manchester United,Attacking Midfield,81.0
+Phil Foden,Manchester City,Central Midfield,76.5
+Raheem Sterling,Manchester City,Left Winger,76.5
+Marcus Rashford,Manchester United,Left Winger,76.5
+Jadon Sancho,Manchester United,Left Winger,76.5
+Sadio Mané,Liverpool,Left Winger,72.0
+Trent Alexander-Arnold,Liverpool,Right-Back,72.0
+Heung-min Son,Tottenham Hotspur,Left Winger,72.0
+Jack Grealish,Manchester City,Left Winger,72.0
+Mason Mount,Chelsea,Attacking Midfield,67.5
+Bernardo Silva,Manchester City,Attacking Midfield,67.5
+Declan Rice,West Ham United,Defensive Midfield,67.5
+Rúben Dias,Manchester City,Centre-Back,67.5
+Rodri,Manchester City,Defensive Midfield,63.0
+Kai Havertz,Chelsea,Attacking Midfield,63.0
+Raphaël Varane,Manchester United,Centre-Back,58.5
+Bukayo Saka,Arsenal,Right Midfield,58.5
+Andrew Robertson,Liverpool,Left-Back,58.5
+João Cancelo,Manchester City,Right-Back,54.0
+Diogo Jota,Liverpool,Centre-Forward,54.0
+Gabriel Jesus,Manchester City,Centre-Forward,54.0
+Wilfred Ndidi,Leicester City,Defensive Midfield,54.0
+Fabinho,Liverpool,Defensive Midfield,54.0
+Alisson,Liverpool,Goalkeeper,54.0
+Reece James,Chelsea,Right-Back,49.5
+Richarlison,Everton,Centre-Forward,49.5
+Youri Tielemans,Leicester City,Central Midfield,49.5
+Virgil van Dijk,Liverpool,Centre-Back,49.5
+Paul Pogba,Manchester United,Central Midfield,49.5
+Timo Werner,Chelsea,Centre-Forward,45.0
+N'Golo Kanté,Chelsea,Defensive Midfield,45.0
+Ederson,Manchester City,Goalkeeper,45.0
+James Maddison,Leicester City,Attacking Midfield,45.0
+Mason Greenwood,Manchester United,Right Winger,45.0
+Harry Maguire,Manchester United,Centre-Back,43.2
+Caglar Söyüncü,Leicester City,Centre-Back,40.5
+Dominic Calvert-Lewin,Everton,Centre-Forward,40.5
+Christian Pulisic,Chelsea,Right Winger,40.5
+Mateo Kovacic,Chelsea,Central Midfield,40.5
+Jorginho,Chelsea,Defensive Midfield,40.5
+Aymeric Laporte,Manchester City,Centre-Back,40.5
+Tomas Soucek,West Ham United,Defensive Midfield,40.5
+Luke Shaw,Manchester United,Left-Back,37.8
+Martin Ødegaard,Arsenal,Attacking Midfield,37.8
+Wilfried Zaha,Crystal Palace,Left Winger,36.0
+Rúben Neves,Wolverhampton Wanderers,Defensive Midfield,36.0
+Kalvin Phillips,Leeds United,Defensive Midfield,36.0
+Pierre-Emile Höjbjerg,Tottenham Hotspur,Central Midfield,36.0
+Thomas Partey,Arsenal,Defensive Midfield,36.0
+Raphinha,Leeds United,Right Winger,36.0
+Riyad Mahrez,Manchester City,Right Winger,36.0
+Wesley Fofana,Leicester City,Centre-Back,36.0
+Ben White,Arsenal,Centre-Back,36.0
+Emile Smith Rowe,Arsenal,Attacking Midfield,34.2
+Tanguy Ndombélé,Tottenham Hotspur,Central Midfield,34.2
+Aaron Wan-Bissaka,Manchester United,Right-Back,34.2
+Roberto Firmino,Liverpool,Centre-Forward,34.2
+Ben Chilwell,Chelsea,Left-Back,34.2
+Cristiano Ronaldo,Manchester United,Centre-Forward,31.5
+Andreas Christensen,Chelsea,Centre-Back,31.5
+Antonio Rüdiger,Chelsea,Centre-Back,31.5
+Cristian Romero,Tottenham Hotspur,Centre-Back,31.5
+Scott McTominay,Manchester United,Defensive Midfield,31.5
+Hakim Ziyech,Chelsea,Attacking Midfield,31.5
+Jarrod Bowen,West Ham United,Right Winger,31.5
+Ollie Watkins,Aston Villa,Centre-Forward,31.5
+Ilkay Gündogan,Manchester City,Central Midfield,31.5
+Douglas Luiz,Aston Villa,Defensive Midfield,31.5
+Pedro Neto,Wolverhampton Wanderers,Left Winger,31.5
+Saúl Ñíguez,Chelsea,Central Midfield,31.5
+Emiliano Buendía,Aston Villa,Right Winger,31.5
+Leon Bailey,Aston Villa,Left Winger,28.8
+Callum Hudson-Odoi,Chelsea,Right Winger,28.8
+Ivan Toney,Brentford,Centre-Forward,28.8
+Kieran Tierney,Arsenal,Left-Back,28.8
+Emiliano Martínez,Aston Villa,Goalkeeper,28.8
+Tyrone Mings,Aston Villa,Centre-Back,28.8
+James Ward-Prowse,Southampton,Central Midfield,28.8
+Edouard Mendy,Chelsea,Goalkeeper,28.8
+Harvey Barnes,Leicester City,Left Midfield,28.8
+Allan Saint-Maximin,Newcastle United,Left Winger,28.8
+Anthony Martial,Manchester United,Centre-Forward,28.8
+Kurt Zouma,West Ham United,Centre-Back,28.8
+Nicolas Pépé,Arsenal,Right Winger,27.0
+Ibrahima Konaté,Liverpool,Centre-Back,27.0
+John McGinn,Aston Villa,Central Midfield,27.0
+Lucas Digne,Aston Villa,Left-Back,27.0
+Leander Dendoncker,Wolverhampton Wanderers,Defensive Midfield,27.0
+Naby Keïta,Liverpool,Central Midfield,27.0
+Davinson Sánchez,Tottenham Hotspur,Centre-Back,27.0
+Curtis Jones,Liverpool,Central Midfield,27.0
+Boubakary Soumaré,Leicester City,Defensive Midfield,25.2
+Adama Traoré,Wolverhampton Wanderers,Right Winger,25.2
+John Stones,Manchester City,Centre-Back,25.2
+Nathan Aké,Manchester City,Centre-Back,25.2
+Sergio Reguilón,Tottenham Hotspur,Left-Back,25.2
+Bryan Gil,Tottenham Hotspur,Left Winger,25.2
+Gabriel Martinelli,Arsenal,Left Winger,25.2
+Timothy Castagne,Leicester City,Right-Back,25.2
+Nikola Vlasic,West Ham United,Attacking Midfield,24.3
+Ismaïla Sarr,Watford,Right Winger,24.3
+Conor Coady,Wolverhampton Wanderers,Centre-Back,22.5
+Ricardo Pereira,Leicester City,Right-Back,22.5
+Aaron Ramsdale,Arsenal,Goalkeeper,22.5
+Emerson Royal,Tottenham Hotspur,Right-Back,22.5
+Saïd Benrahma,West Ham United,Left Winger,22.5
+Jordan Pickford,Everton,Goalkeeper,22.5
+Oleksandr Zinchenko,Manchester City,Left-Back,22.5
+Ben Godfrey,Everton,Centre-Back,22.5
+Yves Bissouma,Brighton & Hove Albion,Central Midfield,22.5
+Dele Alli,Tottenham Hotspur,Attacking Midfield,22.5
+Michael Keane,Everton,Centre-Back,22.5
+Nélson Semedo,Wolverhampton Wanderers,Right-Back,22.5
+Donny van de Beek,Manchester United,Central Midfield,22.5
+Gabriel,Arsenal,Centre-Back,22.5
+Ezri Konsa,Aston Villa,Centre-Back,22.5
+Abdoulaye Doucouré,Everton,Central Midfield,22.5
+Joe Gomez,Liverpool,Centre-Back,22.5
+Takehiro Tomiyasu,Arsenal,Right-Back,22.5
+Kyle Walker,Manchester City,Right-Back,22.5
+Victor Lindelöf,Manchester United,Centre-Back,21.6
+Daniel Podence,Wolverhampton Wanderers,Right Winger,19.8
+Giovani Lo Celso,Tottenham Hotspur,Central Midfield,19.8
+Lewis Dunk,Brighton & Hove Albion,Centre-Back,19.8
+Patson Daka,Leicester City,Centre-Forward,19.8
+Eric Dier,Tottenham Hotspur,Centre-Back,19.8
+Max Aarons,Norwich City,Right-Back,19.8
+Jan Bednarek,Southampton,Centre-Back,19.8
+Fred,Manchester United,Central Midfield,19.8
+Matty Cash,Aston Villa,Right-Back,19.8
+Raúl Jiménez,Wolverhampton Wanderers,Centre-Forward,19.8
+Fábio Silva,Wolverhampton Wanderers,Centre-Forward,19.8
+James Tarkowski,Burnley,Centre-Back,19.8
+Demarai Gray,Everton,Left Winger,19.8
+Marc Guehi,Crystal Palace,Centre-Back,19.8
+Joachim Andersen,Crystal Palace,Centre-Back,19.8
+Francisco Trincão,Wolverhampton Wanderers,Right Winger,19.8
+Dwight McNeil,Burnley,Left Winger,19.8
+Joe Willock,Newcastle United,Central Midfield,19.8
+Lucas Moura,Tottenham Hotspur,Right Winger,19.8
+Conor Gallagher,Crystal Palace,Central Midfield,19.8
+Danny Ings,Aston Villa,Centre-Forward,19.8
+Thiago,Liverpool,Central Midfield,19.8
+Pablo Fornals,West Ham United,Attacking Midfield,18.0
+Eberechi Eze,Crystal Palace,Attacking Midfield,18.0
+Yerry Mina,Everton,Centre-Back,18.0
+Ruben Loftus-Cheek,Chelsea,Central Midfield,18.0
+André Gomes,Everton,Central Midfield,18.0
+Oliver Skipp,Tottenham Hotspur,Defensive Midfield,18.0
+Kelechi Iheanacho,Leicester City,Centre-Forward,18.0
+Callum Wilson,Newcastle United,Centre-Forward,18.0
+Jesse Lingard,Manchester United,Attacking Midfield,18.0
+Ché Adams,Southampton,Centre-Forward,18.0
+Marc Cucurella,Brighton & Hove Albion,Left-Back,18.0
+Granit Xhaka,Arsenal,Defensive Midfield,18.0
+Todd Cantwell,Norwich City,Left Midfield,18.0
+Illan Meslier,Leeds United,Goalkeeper,18.0
+Bertrand Traoré,Aston Villa,Right Winger,18.0
+Neal Maupay,Brighton & Hove Albion,Centre-Forward,18.0
+Patrick Bamford,Leeds United,Centre-Forward,18.0
+Alexandre Lacazette,Arsenal,Centre-Forward,18.0
+Enock Mwepu,Brighton & Hove Albion,Central Midfield,18.0
+Michael Olise,Crystal Palace,Attacking Midfield,16.2
+Alex Iwobi,Everton,Left Winger,16.2
+Allan,Everton,Central Midfield,16.2
+Jordan Henderson,Liverpool,Central Midfield,16.2
+Steven Bergwijn,Tottenham Hotspur,Left Winger,16.2
+David Raya,Brentford,Goalkeeper,16.2
+Trevoh Chalobah,Chelsea,Centre-Back,16.2
+Mason Holgate,Everton,Centre-Back,16.2
+Dean Henderson,Manchester United,Goalkeeper,16.2
+Ben Davies,Tottenham Hotspur,Left-Back,16.2
+Kyle Walker-Peters,Southampton,Right-Back,16.2
+Alex Telles,Manchester United,Left-Back,16.2
+Tariq Lamptey,Brighton & Hove Albion,Right-Back,16.2
+Tino Livramento,Southampton,Right-Back,16.2
+Nathan Redmond,Southampton,Left Winger,16.2
+Adam Armstrong,Southampton,Centre-Forward,16.2
+Diego Llorente,Leeds United,Centre-Back,16.2
+Daniel James,Leeds United,Left Winger,16.2
+Alex Oxlade-Chamberlain,Liverpool,Central Midfield,16.2
+David de Gea,Manchester United,Goalkeeper,16.2
+Amad Diallo,Manchester United,Right Winger,16.2
+Joel Matip,Liverpool,Centre-Back,16.2
+Tom Davies,Everton,Central Midfield,16.2
+Adam Webster,Brighton & Hove Albion,Centre-Back,16.2
+Matt Targett,Aston Villa,Left-Back,15.3
+Kristoffer Ajer,Brentford,Centre-Back,15.3
+Harry Winks,Tottenham Hotspur,Defensive Midfield,15.3
+James Justin,Leicester City,Right-Back,15.3
+Leandro Trossard,Brighton & Hove Albion,Left Winger,15.3
+Robin Koch,Leeds United,Centre-Back,15.3
+Odsonne Edouard,Crystal Palace,Centre-Forward,15.3
+Bryan Mbeumo,Brentford,Right Winger,14.4
+Bernd Leno,Arsenal,Goalkeeper,14.4
+Miguel Almirón,Newcastle United,Attacking Midfield,14.4
+Albert Sambi Lokonga,Arsenal,Central Midfield,14.4
+Marcos Alonso,Chelsea,Left-Back,13.5
+Rico Henry,Brentford,Left-Back,13.5
+Billy Gilmour,Norwich City,Central Midfield,13.5
+Jannik Vestergaard,Leicester City,Centre-Back,13.5
+Pierre-Emerick Aubameyang,Arsenal,Centre-Forward,13.5
+Ryan Sessegnon,Tottenham Hotspur,Left Midfield,13.5
+Jonny Otto,Wolverhampton Wanderers,Left-Back,13.5
+Harvey Elliott,Liverpool,Right Winger,13.5
+Ayoze Pérez,Leicester City,Second Striker,13.5
+Rodrigo,Leeds United,Second Striker,13.5
+Japhet Tanganga,Tottenham Hotspur,Centre-Back,13.5
+Nick Pope,Burnley,Goalkeeper,13.5
+Ozan Kabak,Norwich City,Centre-Back,13.5
+Joelinton,Newcastle United,Centre-Forward,13.5
+Jacob Ramsey,Aston Villa,Central Midfield,13.5
+Rayan Aït-Nouri,Wolverhampton Wanderers,Left-Back,13.5
+Jack Harrison,Leeds United,Left Winger,13.5
+Maxwel Cornet,Burnley,Left Winger,12.6
+Tyrick Mitchell,Crystal Palace,Left-Back,12.6
+Kayky,Manchester City,Right Winger,12.6
+Morgan Sanson,Aston Villa,Central Midfield,12.6
+Sergi Canós,Brentford,Right Winger,12.6
+Hee-chan Hwang,Wolverhampton Wanderers,Centre-Forward,11.7
+Ross Barkley,Chelsea,Central Midfield,11.7
+Pierluigi Gollini,Tottenham Hotspur,Goalkeeper,11.7
+Sean Longstaff,Newcastle United,Central Midfield,11.7
+Nuno Tavares,Arsenal,Left-Back,11.7
+Mathias Normann,Norwich City,Defensive Midfield,11.7
+Rob Holding,Arsenal,Centre-Back,10.8
+Takumi Minamino,Liverpool,Left Winger,10.8
+Alphonse Areola,West Ham United,Goalkeeper,10.8
+Ibrahima Diallo,Southampton,Defensive Midfield,10.8
+Michail Antonio,West Ham United,Centre-Forward,10.8
+Matt Doherty,Tottenham Hotspur,Right-Back,10.8
+Calum Chambers,Arsenal,Centre-Back,10.8
+Junior Firpo,Leeds United,Left-Back,10.8
+Divock Origi,Liverpool,Centre-Forward,10.8
+Issa Diop,West Ham United,Centre-Back,10.8
+Vladimir Coufal,West Ham United,Right-Back,10.8
+Diogo Dalot,Manchester United,Right-Back,10.8
+Jonjo Shelvey,Newcastle United,Central Midfield,9.9
+Robert Sánchez,Brighton & Hove Albion,Goalkeeper,9.9
+Jamaal Lascelles,Newcastle United,Centre-Back,9.9
+Moussa Djenepo,Southampton,Left Winger,9.9
+César Azpilicueta,Chelsea,Right-Back,9.9
+Trezeguet,Aston Villa,Left Winger,9.0
+Manuel Lanzini,West Ham United,Attacking Midfield,9.0
+Josh Dasilva,Brentford,Defensive Midfield,9.0
+Alexis Mac Allister,Brighton & Hove Albion,Attacking Midfield,9.0
+Jakub Moder,Brighton & Hove Albion,Central Midfield,9.0
+Mohamed Elyounoussi,Southampton,Left Winger,9.0
+Isaac Hayden,Newcastle United,Defensive Midfield,9.0
+Mohammed Salisu,Southampton,Centre-Back,9.0
+Jamal Lewis,Newcastle United,Left-Back,9.0
+Yoane Wissa,Brentford,Left Winger,9.0
+Kepa Arrizabalaga,Chelsea,Goalkeeper,9.0
+Konstantinos Tsimikas,Liverpool,Left-Back,9.0
+Ethan Pinnock,Brentford,Centre-Back,9.0
+Frank Onyeka,Brentford,Central Midfield,9.0
+Brandon Williams,Norwich City,Left-Back,9.0
+Jean-Philippe Gbamin,Everton,Defensive Midfield,9.0
+Vitaly Janelt,Brentford,Defensive Midfield,9.0
+Benjamin Mendy,Manchester City,Left-Back,9.0
+Christos Tzolis,Norwich City,Left Winger,9.0
+Ozan Tufan,Watford,Central Midfield,9.0
+Freddie Woodman,Newcastle United,Goalkeeper,9.0
+Imrân Louza,Watford,Central Midfield,9.0
+Anwar El Ghazi,Everton,Right Winger,9.0
+João Pedro,Watford,Centre-Forward,9.0
+Eddie Nketiah,Arsenal,Centre-Forward,9.0
+Cucho Hernández,Watford,Centre-Forward,8.1
+Romain Saïss,Wolverhampton Wanderers,Centre-Back,8.1
+Max Kilman,Wolverhampton Wanderers,Centre-Back,8.1
+Solly March,Brighton & Hove Albion,Left Midfield,8.1
+Ademola Lookman,Leicester City,Left Winger,8.1
+Mohamed Elneny,Arsenal,Defensive Midfield,8.1
+Armando Broja,Southampton,Centre-Forward,8.1
+Pascal Struijk,Leeds United,Centre-Back,8.1
+Neco Williams,Liverpool,Right-Back,7.2
+Emmanuel Dennis,Watford,Centre-Forward,7.2
+Josh Sargent,Norwich City,Centre-Forward,7.2
+Joshua King,Watford,Second Striker,7.2
+Tyler Roberts,Leeds United,Second Striker,7.2
+Moussa Sissoko,Watford,Central Midfield,7.2
+Luke Thomas,Leicester City,Left-Back,7.2
+Romain Perraud,Southampton,Left-Back,7.2
+Joël Veltman,Brighton & Hove Albion,Right-Back,7.2
+Christian Nörgaard,Brentford,Defensive Midfield,7.2
+Jeffrey Schlupp,Crystal Palace,Left Midfield,7.2
+Anthony Gordon,Everton,Left Winger,7.2
+Willy Boly,Wolverhampton Wanderers,Centre-Back,7.2
+Alex Kral,West Ham United,Defensive Midfield,7.2
+Joe Rodon,Tottenham Hotspur,Centre-Back,7.2
+Milot Rashica,Norwich City,Right Winger,7.2
+Eric Bailly,Manchester United,Centre-Back,7.2
+Nathan Collins,Burnley,Centre-Back,7.2
+José Sá,Wolverhampton Wanderers,Goalkeeper,7.2
+Mathias Jensen,Brentford,Central Midfield,7.2
+Ryan Fraser,Newcastle United,Left Winger,7.2
+Nathaniel Phillips,Liverpool,Centre-Back,7.2
+Jack Stephens,Southampton,Centre-Back,7.2
+Josh Brownhill,Burnley,Central Midfield,6.3
+Andros Townsend,Everton,Right Winger,6.3
+Ben Gibson,Norwich City,Centre-Back,6.3
+Pascal Groß,Brighton & Hove Albion,Central Midfield,6.3
+Fabian Schär,Newcastle United,Centre-Back,6.3
+Ki-Jana Hoever,Wolverhampton Wanderers,Right-Back,6.3
+Christian Benteke,Crystal Palace,Centre-Forward,6.3
+Marvelous Nakamba,Aston Villa,Defensive Midfield,6.3
+Pierre Lees-Melou,Norwich City,Central Midfield,6.3
+Liam Cooper,Leeds United,Centre-Back,6.3
+Dimitrios Giannoulis,Norwich City,Left-Back,6.3
+Hugo Lloris,Tottenham Hotspur,Goalkeeper,6.3
+Jeff Hendrick,Newcastle United,Central Midfield,6.3
+Pontus Jansson,Brentford,Centre-Back,5.4
+Steven Alzate,Brighton & Hove Albion,Central Midfield,5.4
+Danny Ward,Leicester City,Goalkeeper,5.4
+Malang Sarr,Chelsea,Centre-Back,5.4
+Jordan Ayew,Crystal Palace,Centre-Forward,5.4
+Nemanja Matic,Manchester United,Defensive Midfield,5.4
+Zack Steffen,Manchester City,Goalkeeper,5.4
+Will Hughes,Crystal Palace,Central Midfield,5.4
+Chris Wood,Newcastle United,Centre-Forward,5.4
+Jairo Riedewald,Crystal Palace,Defensive Midfield,5.4
+Luka Milivojevic,Crystal Palace,Defensive Midfield,5.4
+Stuart Armstrong,Southampton,Central Midfield,5.4
+Nampalys Mendy,Leicester City,Defensive Midfield,4.5
+Daniel Amartey,Leicester City,Centre-Back,4.5
+William Troost-Ekong,Watford,Centre-Back,4.5
+Teemu Pukki,Norwich City,Centre-Forward,4.5
+Martin Dubravka,Newcastle United,Goalkeeper,4.5
+Jamie Vardy,Leicester City,Centre-Forward,4.5
+Jack Clarke,Tottenham Hotspur,Right Winger,4.5
+Hamza Choudhury,Leicester City,Central Midfield,4.5
+Ryan Bertrand,Leicester City,Left-Back,4.5
+Arthur Masuaku,West Ham United,Left-Back,4.5
+Kortney Hause,Aston Villa,Centre-Back,4.5
+Shane Duffy,Brighton & Hove Albion,Centre-Back,4.5
+Jean-Philippe Mateta,Crystal Palace,Centre-Forward,4.5
+Jonny Evans,Leicester City,Centre-Back,4.5
+Cédric Soares,Arsenal,Right-Back,4.5
+Oriol Romeu,Southampton,Defensive Midfield,4.5
+Lyanco,Southampton,Centre-Back,4.5
+Marcus Forss,Brentford,Centre-Forward,4.05
+Jonjoe Kenny,Everton,Right-Back,4.05
+Mateusz Klich,Leeds United,Central Midfield,3.6
+Cheikhou Kouyaté,Crystal Palace,Defensive Midfield,3.6
+Aaron Cresswell,West Ham United,Left-Back,3.6
+Ashley Westwood,Burnley,Defensive Midfield,3.6
+Anthony Elanga,Manchester United,Left Winger,3.6
+Luke Ayling,Leeds United,Right-Back,3.6
+Nathan Ferguson,Crystal Palace,Centre-Back,3.6
+Edinson Cavani,Manchester United,Centre-Forward,3.6
+Kasper Schmeichel,Leicester City,Goalkeeper,3.6
+Salomón Rondón,Everton,Centre-Forward,3.6
+Charlie Taylor,Burnley,Left-Back,3.6
+Stuart Dallas,Leeds United,Right-Back,3.6
+Mads Bech Sörensen,Brentford,Centre-Back,3.6
+Jacob Murphy,Newcastle United,Right Winger,3.6
+Tahith Chong,Manchester United,Right Winger,3.6
+Ben Mee,Burnley,Centre-Back,3.6
+Grant Hanley,Norwich City,Centre-Back,3.6
+Adam Masina,Watford,Left-Back,3.6
+Nicolas N'Koulou,Watford,Centre-Back,3.6
+Phil Jones,Manchester United,Centre-Back,3.6
+Jeremy Ngakia,Watford,Right-Back,3.6
+Álvaro Fernández,Brentford,Goalkeeper,3.6
+Alex McCarthy,Southampton,Goalkeeper,3.15
+Dan Burn,Brighton & Hove Albion,Centre-Back,3.15
+Seamus Coleman,Everton,Right-Back,3.15
+Andriy Yarmolenko,West Ham United,Right Winger,3.15
+Christian Kabasele,Watford,Centre-Back,2.7
+Saman Ghoddos,Brentford,Attacking Midfield,2.7
+Ben Johnson,West Ham United,Right-Back,2.7
+Karl Darlow,Newcastle United,Goalkeeper,2.7
+Kiko Femenía,Watford,Right-Back,2.7
+Connor Roberts,Burnley,Right-Back,2.7
+Kieran Dowell,Norwich City,Attacking Midfield,2.7
+Yerson Mosquera,Wolverhampton Wanderers,Centre-Back,2.7
+Joe Gelhardt,Leeds United,Centre-Forward,2.7
+Matej Vydra,Burnley,Centre-Forward,2.7
+Kenny McLean,Norwich City,Central Midfield,2.7
+Danny Welbeck,Brighton & Hove Albion,Centre-Forward,2.7
+Jay Rodríguez,Burnley,Centre-Forward,2.7
+Angus Gunn,Norwich City,Goalkeeper,2.7
+Craig Dawson,West Ham United,Centre-Back,2.7
+Daniel Bachmann,Watford,Goalkeeper,2.7
+Fabian Delph,Everton,Central Midfield,2.7
+Cole Palmer,Manchester City,Attacking Midfield,2.7
+Jóhann Berg Gudmundsson,Burnley,Right Winger,2.7
+Ken Sema,Watford,Left Midfield,2.7
+Emil Krafth,Newcastle United,Right-Back,2.7
+Jarrad Branthwaite,Everton,Centre-Back,2.7
+Adam Idah,Norwich City,Centre-Forward,2.7
+Peter Etebo,Watford,Central Midfield,2.7
+Jamie Shackleton,Leeds United,Central Midfield,2.7
+Javier Manquillo,Newcastle United,Right-Back,2.7
+Jack Cork,Burnley,Defensive Midfield,2.7
+Gylfi Sigurdsson,Everton,Attacking Midfield,2.7
+Juan Mata,Manchester United,Attacking Midfield,2.7
+Theo Walcott,Southampton,Right Winger,2.7
+Kjell Scherpen,Brighton & Hove Albion,Goalkeeper,2.52
+Adam Lallana,Brighton & Hove Albion,Attacking Midfield,2.25
+Cenk Tosun,Everton,Centre-Forward,2.25
+Thiago Silva,Chelsea,Centre-Back,2.25
+Marcus Bettinelli,Chelsea,Goalkeeper,2.25
+Ciaran Clark,Newcastle United,Centre-Back,2.25
+Caoimhin Kelleher,Liverpool,Goalkeeper,2.25
+Marc Albrighton,Leicester City,Right Midfield,2.25
+Danny Rose,Watford,Left-Back,2.25
+Fraser Forster,Southampton,Goalkeeper,2.25
+Yan Valery,Southampton,Right-Back,2.25
+Tariqe Fosu,Brentford,Left Winger,2.25
+João Moutinho,Wolverhampton Wanderers,Central Midfield,2.25
+Carney Chukwuemeka,Aston Villa,Central Midfield,2.25
+Bruno Jordão,Wolverhampton Wanderers,Central Midfield,2.25
+Przemyslaw Placheta,Norwich City,Left Winger,1.8
+Matt Ritchie,Newcastle United,Left-Back,1.8
+Adam Forshaw,Leeds United,Central Midfield,1.8
+Kristoffer Klaesson,Leeds United,Goalkeeper,1.8
+Nathan Tella,Southampton,Right Winger,1.8
+Ashley Fletcher,Watford,Centre-Forward,1.8
+Fernandinho,Manchester City,Defensive Midfield,1.8
+Tudor Baluta,Brighton & Hove Albion,Defensive Midfield,1.8
+Federico Fernández,Newcastle United,Centre-Back,1.8
+Will Smallbone,Southampton,Central Midfield,1.8
+Joel Ward,Crystal Palace,Right-Back,1.8
+Ashley Barnes,Burnley,Centre-Forward,1.8
+Dwight Gayle,Newcastle United,Centre-Forward,1.8
+Tim Krul,Norwich City,Goalkeeper,1.8
+Paul Dummett,Newcastle United,Left-Back,1.8
+Jack Butland,Crystal Palace,Goalkeeper,1.8
+Nathaniel Clyne,Crystal Palace,Right-Back,1.8
+James Milner,Liverpool,Central Midfield,1.8
+Tom Cleverley,Watford,Central Midfield,1.8
+Juraj Kucka,Watford,Central Midfield,1.8
+Crysencio Summerville,Leeds United,Right Winger,1.8
+Ryan Fredericks,West Ham United,Right-Back,1.8
+Matthew Lowton,Burnley,Right-Back,1.8
+Sam Byram,Norwich City,Right-Back,1.8
+Angelo Ogbonna,West Ham United,Centre-Back,1.8
+James Tomkins,Crystal Palace,Centre-Back,1.8
+Kiernan Dewsbury-Hall,Leicester City,Central Midfield,1.8
+Jacob Lungi Sörensen,Norwich City,Defensive Midfield,1.62
+Lukas Rupp,Norwich City,Central Midfield,1.62
+Marçal,Wolverhampton Wanderers,Left-Back,1.35
+Dale Stephens,Burnley,Central Midfield,1.35
+Craig Cathcart,Watford,Centre-Back,1.35
+Loris Karius,Liverpool,Goalkeeper,1.35
+Francisco Sierralta,Watford,Centre-Back,1.35
+Vicente Guaita,Crystal Palace,Goalkeeper,1.35
+Christoph Zimmermann,Norwich City,Centre-Back,1.35
+Zanka,Brentford,Centre-Back,1.35
+James McArthur,Crystal Palace,Central Midfield,1.35
+Mads Roerslev Rasmussen,Brentford,Right-Back,1.35
+Andrew Omobamidele,Norwich City,Centre-Back,1.08
+Shandon Baptiste,Brentford,Central Midfield,0.9
+Ashley Young,Aston Villa,Left-Back,0.9
+Mark Noble,West Ham United,Central Midfield,0.9
+Darren Randolph,West Ham United,Goalkeeper,0.9
+Charlie Cresswell,Leeds United,Centre-Back,0.9
+Asmir Begovic,Everton,Goalkeeper,0.9
+Tom Heaton,Manchester United,Goalkeeper,0.9
+Dan Gosling,Watford,Central Midfield,0.9
+Charlie Goode,Brentford,Centre-Back,0.9
+Lukasz Fabianski,West Ham United,Goalkeeper,0.9
+Charly Musonda Jr.,Chelsea,Attacking Midfield,0.9
+Kevin Long,Burnley,Centre-Back,0.9
+Aaron Lennon,Burnley,Right Winger,0.9
+Adrián,Liverpool,Goalkeeper,0.9
+Erik Pieters,Burnley,Left-Back,0.9
+Julian Jeanvier,Brentford,Centre-Back,0.9
+Martin Kelly,Crystal Palace,Right-Back,0.9
+Mads Bidstrup,Brentford,Central Midfield,0.81
+Shane Long,Southampton,Centre-Forward,0.72
+Wayne Hennessey,Burnley,Goalkeeper,0.72
+Kwadwo Baah,Watford,Left Winger,0.72
+Jed Steer,Aston Villa,Goalkeeper,0.72
+Jason Steele,Brighton & Hove Albion,Goalkeeper,0.72
+Dominic Thompson,Brentford,Left-Back,0.72
+Jaroslaw Jach,Crystal Palace,Centre-Back,0.585
+Cameron Archer,Aston Villa,Centre-Forward,0.45
+Liam McCarron,Leeds United,Left-Back,0.45
+Jaden Philogene-Bidace,Aston Villa,Left Winger,0.45
+John Ruddy,Wolverhampton Wanderers,Goalkeeper,0.45
+Sam Greenwood,Leeds United,Centre-Forward,0.45
+Haydon Roberts,Brighton & Hove Albion,Centre-Back,0.45
+Will Norris,Burnley,Goalkeeper,0.36
+Fin Stevens,Brentford,Right-Back,0.36
+Mark Gillespie,Newcastle United,Goalkeeper,0.36
+Remi Matthews,Crystal Palace,Goalkeeper,0.27
+Scott Carson,Manchester City,Goalkeeper,0.27
+Ben Foster,Watford,Goalkeeper,0.27
+Oskar Buur,Wolverhampton Wanderers,Right-Back,0.27
+Phil Bardsley,Burnley,Right-Back,0.27
+Eldin Jakupovic,Leicester City,Goalkeeper,0.27
+Willy Caballero,Southampton,Goalkeeper,0.225
+Michael McGovern,Norwich City,Goalkeeper,0.225
+David Martin,West Ham United,Goalkeeper,0.225
+Andy Lonergan,Everton,Goalkeeper,0.225
+Luka Racic,Brentford,Centre-Back,0.225
+Brandon Austin,Tottenham Hotspur,Goalkeeper,0.225
+Lee Grant,Manchester United,Goalkeeper,0.225
+Harry Lewis,Southampton,Goalkeeper,0.18
+Rob Elliot,Watford,Goalkeeper,0.18
+Vitaliy Mykolenko,Everton,Left-Back,15.3
+Kenedy,Chelsea,Left Midfield,6.3
+Alfie Whiteman,Tottenham Hotspur,Goalkeeper,0.72
+Hassane Kamara,Watford,Left-Back,5.4
+Rhys Williams,Liverpool,Centre-Back,3.6
