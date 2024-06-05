@@ -1,7 +1,7 @@
 # CS-course
 
 ### Introduction
-[Pandas] (Introduction/Pandas)
+[Pandas] (Introduction/Pandas/pandas.ipynb)
 Web scraping
 
 
