@@ -1,8 +1,8 @@
 # CS-course
 
 ### Introduction
-*[Pandas](Introduction/Pandas/pandas.ipynb)
-*[Web Scraping](Introduction/Web_scraping/web_scraping.ipynb)
+*  [Pandas](Introduction/Pandas/pandas.ipynb)
+*  [Web Scraping](Introduction/Web_scraping/web_scraping.ipynb)
 [Visualization](Introduction/Visualization/visualization.ipynb)
 [Advanced Visualization](Introduction/Advanced_visualization/advanced_visualization.ipynb)
 [Explanatory Visualization](Introduction/Explanatory_visualization/explanatory_visualization.ipynb)
