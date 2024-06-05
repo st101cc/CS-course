@@ -2,10 +2,11 @@
 
 ### Introduction
 [Pandas](Introduction/Pandas/pandas.ipynb)
-[Web_scraping](Introduction/Web_scraping/web_scraping.ipynb)
+
+[Web Scraping](Introduction/Web_scraping/web_scraping.ipynb)
 [Visualization](Introduction/Visualization/visualization.ipynb)
-[Advanced_visualization](Introduction/Advanced_visualization/advanced_visualization.ipynb)
-[Explanatory_visualization](Introduction/Explanatory_visualization/explanatory_visualization.ipynb)
+[Advanced Visualization](Introduction/Advanced_visualization/advanced_visualization.ipynb)
+[Explanatory Visualization](Introduction/Explanatory_visualization/explanatory_visualization.ipynb)
 
 ### Example projects
 [Tweets](Projects/Tweets.ipynb)
