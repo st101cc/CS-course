@@ -8,9 +8,9 @@
 *  [Explanatory Visualization](Introduction/Explanatory_visualization/explanatory_visualization.ipynb)
 
 ### Example projects
-*  [Tweets](Projects/Tweets.ipynb)
-*  [Titanic](Projects/Titanic.ipynb)
-*  [Taylor_Swift](Projects/taylor_swift.ipynb)
+*  [Tweets](Projects/Tweets/Tweets.ipynb)
+*  [Titanic](Projects/Titanic/Titanic.ipynb)
+*  [Taylor Swift](Projects/Taylor_Swift/taylor_swift.ipynb)
 
 ### Files to download
 *  Github Desktop: https://docs.github.com/en/desktop/installing-and-authenticating-to-github-desktop/installing-github-desktop?platform=mac 
