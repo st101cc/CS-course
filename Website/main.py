@@ -6,17 +6,17 @@ app = Flask(__name__)
 def home():
     return render_template("home.html")
 
-@app.route("/about")
-def about():
-    return render_template("about.html")
+@app.route("/source")
+def source():
+    return render_template("source.html")
 
-@app.route("/project")
-def project():
-    return render_template("project.html")
+@app.route("/clean")
+def clean():
+    return render_template("clean.html")
 
-@app.route("/hobby")
-def hobby():
-    return render_template("hobby.html")
+@app.route("/visual")
+def visual():
+    return render_template("visual.html")
 
 if __name__ == "__main__":
     app.run(debug=True)
