@@ -1,5 +1,5 @@
 {% extends "base.html" %}
-{% block title%}Home{% endblock %}
+{% block title%}Clean{% endblock %}
 {% block content%}
 <div class="back">
     <div class="content">
@@ -8,14 +8,21 @@
             <li class="step">Have a look at the dataset</li>
             <ul>
                 <li class="step">First five rows</li>
+                <img src="/static/images/head.png" style="width: 1000px">
                 <li class="step">Central tendency of each column</li>
+                <img sre="/static/images/describe.png" style="width: 1000px">
                 <li class="step">Data type and null count</li>
+                <img src="/static/images/df_info.png" style="width: 300px;">
             <ul>
             <li class="step">Remove columns "uri" and "Unnamed: 0"</Li>
+            <img src="/static/images/drop.png" style="width: 1000px">
             <li class="step">Create column "duration_s"</li>
+            <img src="/static/images/duration.png" style="width: 1000px">
             <li class="step">Count the number of musics per album</li>
+            <img src="/static/images/mus_per_alb.png" style="width: 450px;">
             <li class="step">Change "release_date" column type</li>
             <li class="step">Create "release_year" column</li>
+            <img src="/static/images/release.png" style="width: 1000px">
         <ol>
     </div>
 </div>

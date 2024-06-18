@@ -1,14 +1,293 @@
-<<<<<<< Updated upstream
-.navbar-nav{
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden; /* Prevent horizontal scrolling */
+}
+
+.navbar-nav {
     font-family: "Times New Roman";
     font-size: 15px;
 }
 
+.navbar-custom {
+    background-color: #FAE8ED;
+}
+
+.navbar-custom .navbar-brand, .navbar-custom .navbar-nav .nav-link {
+    color: black;
+}
+
+.navbar-custom .navbar-nav .nav-link:hover {
+    color: #bbb;
+}
 .back {
-    background-color: blue;
+    width: 100%;
+    min-height: 100vh;
+    background-color: #FAE8ED;
+    position: relative;
+    display: flex;
+    padding: 0 5%;
+    overflow: auto;
 }
-=======
-body {
-    background-color: blue;
+
+.back_home {
+    width: 100%;
+    height: 100vh;
+    background-color: #FAE8ED;
+    background-image: url("/static/images/home_background.jpg");
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0 5%;
+    overflow: hidden;
 }
->>>>>>> Stashed changes
+
+.back_conc {
+    width: 100%;
+    height: 100vh;
+    background-color: #FAE8ED;
+    background-image: url("/static/images/conc_background.jpg");
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0 5%;
+    overflow: hidden;
+}
+
+.back_source {
+    width: 100%;
+    height: 100vh;
+    background-color: #FAE8ED;
+    background-image: url("/static/images/source_background.jpg");
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0 5%;
+    overflow: hidden;
+}
+
+.content, .content1 {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.content h1 {
+    font-family: "Times New Roman", Times, serif;
+    font-size: 100px;
+    font-weight: 600;
+    color: white;
+    transition: 0.55;
+}
+
+.content h2 {
+   font-family: "Times New Roman", Times, serif;
+   font-size: 50px;
+   font-weight: 600;
+   color: white;
+   transition: 0.5s;
+}
+
+.content1 h2  {
+   font-family: "Times New Roman", Times, serif;
+   font-size: 50px;
+   font-weight: 600;
+   color: white;
+   transition: 0.5s;
+   text-align: left;
+   width: 100%;
+}
+
+.content h3, .content1 h3 {
+   font-family: "Times New Roman", Times, serif;
+   font-size: 40px;
+   font-weight: 600;
+   color: black;
+   transition: 0.5s;
+   text-align: center;
+   margin-top: 30px;
+}
+.content h4, .content1 h4 {
+   font-family: "Times New Roman", Times, serif;
+   font-size: 30px;
+   font-weight: 600;
+   color: black;
+   transition: 0.5s;
+   text-align: left;
+   width: 100%;
+}
+
+.content h5, .content1 h5 {
+    font-family: "Times New Roman";
+    color: white;
+}
+
+.content h6 {
+    font-family: "Times New Roman";
+    padding-bottom: 20px;
+}
+
+.content1 h6 {
+    font-family: "Times New Roman";
+    padding-bottom: 20px;
+    color: white;
+    text-align: left;
+    width: 100%;
+}
+
+.content a {
+    text-decoration: none;
+    display: inline-block;
+    font-family: "Times New Roman";
+    font-size: 24px;
+    color: white;
+    border: 2px solid white;
+    padding: 14px 24px;
+    border-radius: 0;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    transition: background-color 0.3s ease, color 0.3 ease; /* Optional: Smooth transition for hover effects */
+}
+
+•content a:hoverf {
+    text-decoration: none;
+    color: white;
+    background-color: rgba(255, 255, 255, 0.3);
+}
+
+.content p {
+    font-family: "Times New Roman";
+    text-align: left;
+    padding-bottom: 20px;
+    width: 100%;
+}
+
+.content1 p {
+    font-family: "Times New Roman";
+    color: white;
+    text-align: left;
+    padding-bottom: 20px;
+    width: 100%;
+}
+
+.content img, .content1 img {
+   display: block;
+   margin: 0 auto 20px 0; /* Align to the left with some margin below */
+   width: 500px; /* Set a fixed width */
+   height: auto; /* Maintain aspect ratio */
+}
+
+.content1 a {
+   text-decoration: underline;
+   display: inline-block;
+   font-family: "Times New Roman";
+   font-size: 16px;
+   color: white;
+}
+
+.content1 a:hover{
+    text-decoration: none;
+    color: white;
+}
+
+.foot {
+    width: 100%;
+    background-image: linear-gradient (#FAE8ED,#FAE8ED);
+    height: 19vh;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0 5%;
+    overflow: hidden;
+}
+.foot a {
+    text-decoration: none;
+    display: inline-block;
+    font-family: "Times New Roman";
+    font-size: 14px;
+    color: black;
+    border: 2px solid black;
+    padding: 10px 20px;
+    border-radius: 0;
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+}
+.foot a:hover{
+    text-decoration: none;
+    color: black;
+    background-color: rgba(255, 255, 255, 0.3);
+}
+
+.back-button {
+    text-decoration: none;
+    position: absolute;
+    bottom: 10px;
+    left: 30px;
+    border: 2px solid white;
+    padding: 10px 20px;
+    border-radius: 0;
+    margin-bottom: 20px;
+}
+
+.back-button:hover {
+    text-decoration: none;
+    background-color: rgba (255, 255, 255, 0.3);
+}
+
+.next-button {
+    text-decoration: none;
+    position: absolute;
+    bottom: 10px;
+    right: 30px;
+    border: 2px solid white;
+    padding: 10px 20px;
+    border-radius: 0;
+    margin-bottom: 20px;
+}
+
+.next-button:hover {
+    text-decoration: none;
+    background-color: rgba (255, 255, 255, 0.3);
+}
+
+.steps {
+    align-items: left;
+    width: 100%
+    padding-left: 20px;
+}
+
+.steps img{
+    width: 500px;
+}
+
+.step {
+    text-align: left;
+    width: 100%;
+    font-family: "Times New Roman";
+}
+
+.row {
+    display: flex;
+    padding: 10px;
+    gap: 20px;
+    align-items: flex-start;
+}
+
+.column {
+    flex: 1;
+    padding: 10px;
+    box-sizing: border-box;
+}
