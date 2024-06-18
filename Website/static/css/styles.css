@@ -160,7 +160,7 @@ html, body {
     transition: background-color 0.3s ease, color 0.3 ease; /* Optional: Smooth transition for hover effects */
 }
 
-•content a:hoverf {
+•content a:hover {
     text-decoration: none;
     color: white;
     background-color: rgba(255, 255, 255, 0.3);
@@ -244,7 +244,7 @@ html, body {
 
 .back-button:hover {
     text-decoration: none;
-    background-color: rgba (255, 255, 255, 0.3);
+    background-color: rgba(255, 255, 255, 0.3);
 }
 
 .next-button {
@@ -260,12 +260,12 @@ html, body {
 
 .next-button:hover {
     text-decoration: none;
-    background-color: rgba (255, 255, 255, 0.3);
+    background-color: rgba(255, 255, 255, 0.3);
 }
 
 .steps {
     align-items: left;
-    width: 100%
+    width: 100%;
     padding-left: 20px;
 }
 
