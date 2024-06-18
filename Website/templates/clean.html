@@ -2,6 +2,25 @@
 {% block title%}Home{% endblock %}
 {% block content%}
 <div class="back">
-
+    <div class="content">
+        <h3>Data Cleaning</h3>
+        <ol class="steps">
+            <li class="step">Have a look at the dataset</li>
+            <ul>
+                <li class="step">First five rows</li>
+                <li class="step">Central tendency of each column</li>
+                <li class="step">Data type and null count</li>
+            <ul>
+            <li class="step">Remove columns "uri" and "Unnamed: 0"</Li>
+            <li class="step">Create column "duration_s"</li>
+            <li class="step">Count the number of musics per album</li>
+            <li class="step">Change "release_date" column type</li>
+            <li class="step">Create "release_year" column</li>
+        <ol>
+    </div>
+</div>
+<div class="foot">
+    <a href="/source" class="back-button">Back</a>
+    <a href="/visual" class="next-button">Next</a>
 </div>
 {% endblock %}
