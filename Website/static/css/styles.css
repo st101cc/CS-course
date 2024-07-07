@@ -65,7 +65,7 @@ html, body {
     width: 100%;
     height: 100vh;
     background-color: #FAE8ED;
-    background-image: url("/static/images/source_background.jpg");
+    background-image: url("/static/images/source_background.png");
     background-size: cover;
     background-position: center;
     position: relative;
@@ -203,7 +203,7 @@ html, body {
 
 .foot {
     width: 100%;
-    background-image: linear-gradient (#FAE8ED,#FAE8ED);
+    background-image: linear-gradient(#FAE8ED,#FAE8ED);
     height: 19vh;
     position: relative;
     display: flex;
